@@ -3,8 +3,6 @@
 
 # Scrapping Dataset from Atlas Obscura
 
-## Get data to analyze, the data in usage are available on Kaggle at https://www.kaggle.com/datasets/shmalex/instagram-dataset?select=instagram_profiles.csv
-
 **Dataset**: You'll find a CSV file (`dataset.csv`) in this repository, containing the data obtained through web scraping from Atlas Obscura. This dataset provides valuable information for our analysis.
 
 - **Dictionaries**: We've included the word-to-id and inverted index dictionaries that are essential for our text analysis. These files are named `word_to_id_dictionary.txt` and `inverted_index_dictionary.txt`.
@@ -12,6 +10,8 @@
 - **Ranking List**: To assist in interpreting the results of our theoretical questions, we've created a ranking list, available in the file `ranking_list.txt`.
   
 - **CommandLine.sh**: This is an executables bash shell script file contains the script to answer to the command line question.
+
+  **Questions**: This is a file that whitin has a link to the repository that has the questions.
 
 
 ## Supporting Functions
