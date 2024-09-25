@@ -24,7 +24,7 @@ For detailed instructions on how to use the code and functions in this repositor
 
 ## Contributions
 
-- Alessandro Sgroi
 - Raymand Shojaie Aghabalaghe
+- Alessandro Sgroi
 - Guiseppe Dipoce
     
